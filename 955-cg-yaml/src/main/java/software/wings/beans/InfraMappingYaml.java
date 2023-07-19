@@ -26,6 +26,7 @@ public abstract class InfraMappingYaml extends BaseEntityYaml {
   private String serviceName;
   private String infraMappingType;
   private String deploymentType;
+  //private Map<String, Object> blueprints;
   private Map<String, Object> blueprints;
 
   public InfraMappingYaml(String type, String harnessApiVersion, String serviceName, String infraMappingType,
