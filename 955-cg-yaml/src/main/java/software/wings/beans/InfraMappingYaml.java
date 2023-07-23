@@ -23,7 +23,6 @@ import lombok.NoArgsConstructor;
 @EqualsAndHashCode(callSuper = true)
 @OwnedBy(CDP)
 public abstract class InfraMappingYaml extends BaseEntityYaml {
- // private String serviceName;
   private String serviceName;
   private String infraMappingType;
   private String deploymentType;
