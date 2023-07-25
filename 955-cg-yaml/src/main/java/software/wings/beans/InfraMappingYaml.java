@@ -24,7 +24,7 @@ import lombok.NoArgsConstructor;
 @OwnedBy(CDP)
 public abstract class InfraMappingYaml extends BaseEntityYaml {
   private String serviceName;
-  //Int w = 8;
+  //Int w = 12;
   private String infraMappingType;
   private String deploymentType;
   private Map<String, Object> blueprints;
