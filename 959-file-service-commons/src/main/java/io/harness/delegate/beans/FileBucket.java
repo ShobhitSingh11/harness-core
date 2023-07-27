@@ -46,7 +46,6 @@ public enum FileBucket {
    * Instantiates a new file bucket.
    */
   FileBucket() {
-    //this(1000 * 1000);
     this(1000 * 1000);
   }
 
