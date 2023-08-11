@@ -6,6 +6,7 @@
  */
 
 // package io.harness.mongo.log;
+// package io.harness.mongo.log;
 package io.harness.mongo.log;
 
 import io.harness.logging.AutoLogContext;
